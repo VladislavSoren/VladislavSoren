@@ -5,4 +5,5 @@
 - 📫 How to reach me:
 vlad1998ss@mail.ru
 7vladsid7 - Instagram
+89046565942 - Telegram
 
