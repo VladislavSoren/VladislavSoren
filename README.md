@@ -5,7 +5,11 @@
 - 📫 How to reach me:
 vlad1998ss@mail.ru
 
-7vladsid7 - Instagram
+Telegram: 89046565942 
 
-89046565942 - Telegram
+Hubr: https://habr.com/ru/users/VladislavSoren 
+
+Instagram: 7vladsid7 
+
+
 
