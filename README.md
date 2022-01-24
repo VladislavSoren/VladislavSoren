@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning EDA, SQL, CV
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me:
-vlad1998ss@mail.ru
+vlad224vlgu@gmail.com
 
 Telegram: 89046565942 
 
