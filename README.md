@@ -9,7 +9,8 @@ Telegram: 89046565942
 
 Hubr: https://habr.com/ru/users/VladislavSoren 
 
-Instagram: 7vladsid7 
+Facebook: https://www.facebook.com/profile.php?id=100077674352770 
 
+Instagram: https://www.instagram.com/7vladsid7/
 
 
