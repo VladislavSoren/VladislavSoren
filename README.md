@@ -1,4 +1,4 @@
-- 👋 Hi, I’ma Python Developer
+- 👋 Hi, I’m a Python Developer
 - 🌱 I am developing telegram bots
 - 👀 I’m interested in ML
 - 💞️ I’m looking to collaborate on interesting projects
