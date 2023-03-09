@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VladislavSoren
+- 👋 Hi, I’ma Python Developer
+- 🌱 I am developing telegram bots
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning EDA, SQL, CV
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me:
 vlad224vlgu@gmail.com
