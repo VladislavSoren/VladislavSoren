@@ -1,11 +1,12 @@
 - 👋 Hi, I’m a Python Developer
-- 🌱 I am developing telegram bots
+- 🌱 I am developing web services and telegram bots
 - 👀 I’m interested in ML
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me:
+vlad1998ss@mail.ru
 vlad224vlgu@gmail.com
 
-Telegram: 89046565942 
+Telegram: 89046565942 (VladislavSoren)
 
 Hubr: https://habr.com/ru/users/VladislavSoren 
 
