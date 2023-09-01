@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center"> Hello, my name is Vladislav. I'm Python developer 👨‍💻</div>  
   
