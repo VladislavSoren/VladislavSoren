@@ -16,7 +16,7 @@ vlad224vlgu@gmail.com
 
 Telegram: 89046565942 (VladislavSoren)
 
-Hubr: https://habr.com/ru/users/VladislavSoren 
+Habr: https://habr.com/ru/users/VladislavSoren 
 
 <br/>  
 
