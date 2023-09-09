@@ -1,14 +1,14 @@
 
-### <div align="center"> Hello, my name is Vladislav. I'm Python developer 👨‍💻</div>  
+## <div align="center"> Hello, my name is Vladislav. I'm a Python developer 👨‍💻</div>  
   
 
-- 🌱 I am developing web services and telegram bots  
+- 🌱 developing web services and telegram bots  
   
 
-- 👀 I’m interested in ML  
+- 👀 interested in ML  
   
 
-- 💞️ I’m looking to collaborate on interesting projects  
+- 💞️ looking to collaborate on interesting projects  
   
 
 - 📫 My mails: vlad1998ss@mail.ru /
@@ -61,8 +61,6 @@ vlad224vlgu@gmail.com
 
 </td></tr></table>  
 
-<br/>  
-
 
 ### :handshake: Connect with me:
 <div align="center">
@@ -79,9 +77,6 @@ vlad224vlgu@gmail.com
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
-
-<br/>  
 
 
 ### 📈: My Stats:
