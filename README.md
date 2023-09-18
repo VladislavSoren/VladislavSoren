@@ -64,10 +64,10 @@ vlad224vlgu@gmail.com
 
 ### :handshake: Connect with me:
 <div align="center">
-<a href="https://habr.com/ru/users/VladislavSoren">
+<a href="https://t.me/VladislavSoren">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://t.me/VladislavSoren">
+<a href="https://habr.com/ru/users/VladislavSoren">
 <img src="https://img.shields.io/badge/Habr-blue"  height="30" />
 </a>
 <a href="https://gitlab.com/VladislavSoren" target="_blank">
