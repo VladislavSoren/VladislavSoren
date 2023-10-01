@@ -38,8 +38,9 @@ vlad224vlgu@gmail.com
 
 
 ### Backend  
-<div align="center">  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<div align="center">   
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=django&theme=light" alt="FastAPI" height="50" /></a>    
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=fastapi&theme=light" alt="FastAPI" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
