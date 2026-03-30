@@ -4,24 +4,17 @@
 
 - ⚒️ developing web services and bots
   
-
 - 🦾 applying AI technologies in practice
   
-
 - 🤝 looking to collaborate on interesting projects  
   
-
 - 📫 My mails: vlad1998ss@mail.ru /
 vlad224vlgu@gmail.com
 
-- 🏆 My team (ADEPTeam): https://vk.com/adepteam
+- 📞 Contact: 89046565942 (VladislavSoren)
 
-<div align="center">
-  <a href="https://t.me/VladislavSoren">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <div style="font-size: 70px;">89046565942 (VladislavSoren)</div>
-</div>
+- 🏆 Team (ADEPTeam): https://vk.com/adepteam
+
 
 ### :handshake: Connect with me:
 <div align="center">
