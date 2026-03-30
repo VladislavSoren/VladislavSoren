@@ -12,7 +12,9 @@
   
 
 - 📫 My mails: vlad1998ss@mail.ru /
-vlad224vlgu@gmail.com  
+vlad224vlgu@gmail.com
+
+- 🏆 My team (ADEPTeam): https://vk.com/adepteam
 
 <div>
 <a href="https://t.me/VladislavSoren">
