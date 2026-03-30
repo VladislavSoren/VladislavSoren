@@ -16,10 +16,12 @@ vlad224vlgu@gmail.com
 
 - 🏆 My team (ADEPTeam): https://vk.com/adepteam
 
-<div>
-<a href="https://t.me/VladislavSoren">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a><spen style="font-size= 70px;"> 89046565942 (VladislavSoren)</spen> 
+<div align="center">
+  <a href="https://t.me/VladislavSoren">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <div style="font-size: 70px;">89046565942 (VladislavSoren)</div>
+</div>
 
 <br/>  
 
