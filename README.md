@@ -19,7 +19,7 @@ vlad224vlgu@gmail.com
 <div>
 <a href="https://t.me/VladislavSoren">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a><spen style="font-size= 100px;"> :  89046565942 (VladislavSoren)</spen> 
+</a><spen style="font-size= 70px;"> 89046565942 (VladislavSoren)</spen> 
 
 <br/>  
 
