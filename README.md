@@ -2,13 +2,13 @@
 ## <div align="center"> Hello, my name is Vladislav. I'm a Python developer 👨‍💻</div>  
   
 
-- 🌱 developing web services and telegram bots  
+- ⚒️ developing web services and bots
   
 
-- 👀 interested in ML  
+- 🦾 apply AI technologies in practice
   
 
-- 💞️ looking to collaborate on interesting projects  
+- 🤝 looking to collaborate on interesting projects  
   
 
 - 📫 My mails: vlad1998ss@mail.ru /
