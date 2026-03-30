@@ -5,7 +5,7 @@
 - ⚒️ developing web services and bots
   
 
-- 🦾 apply AI technologies in practice
+- 🦾 applying AI technologies in practice
   
 
 - 🤝 looking to collaborate on interesting projects  
