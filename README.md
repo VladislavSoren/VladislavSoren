@@ -15,6 +15,7 @@ vlad224vlgu@gmail.com
 
 - 🏆 Team (ADEPTeam): https://vk.com/adepteam
 
+<br/> 
 
 ### :handshake: Connect with me:
 <div align="center">
