@@ -23,12 +23,26 @@ vlad224vlgu@gmail.com
   <div style="font-size: 70px;">89046565942 (VladislavSoren)</div>
 </div>
 
+### :handshake: Connect with me:
+<div align="center">
+<a href="https://t.me/VladislavSoren">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://habr.com/ru/users/VladislavSoren">
+<img src="https://img.shields.io/badge/Habr-blue"  height="30" />
+</a>
+<a href="https://gitlab.com/VladislavSoren" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100077674352770" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+</div>  
+
 <br/>  
 
 ### :hammer_and_wrench: Languages and Tools :
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Languages  
 <div align="center">  
@@ -65,24 +79,6 @@ vlad224vlgu@gmail.com
 </div>
 
 </td></tr></table>  
-
-
-### :handshake: Connect with me:
-<div align="center">
-<a href="https://t.me/VladislavSoren">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://habr.com/ru/users/VladislavSoren">
-<img src="https://img.shields.io/badge/Habr-blue"  height="30" />
-</a>
-<a href="https://gitlab.com/VladislavSoren" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100077674352770" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-</div>  
-
 
 ### 📈: My Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavSoren&show_icons=true&hide_title=True)
